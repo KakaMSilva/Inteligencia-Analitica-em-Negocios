@@ -1,1 +1,2 @@
 # Inteligencia-Analitica-em-Negocios
+criar uma proposta de melhoria organizacional com o apoio de ferramentas de análise de dados, que será elaborada em quatro etapas durante a disciplina. No entanto, é imprescindível que seja seguida a ordem cronológica das etapas. Cumprindo as atividades previstas e ocorrendo o sequenciamento lógico da atividade e seu entendimento como um todo, você será desafiado em cada etapa. Suas decisões serão importantes no momento de colher os frutos da atividade para a empresa em que está atuando ou em que irá atuar.
